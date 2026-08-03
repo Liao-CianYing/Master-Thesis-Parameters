@@ -25,7 +25,7 @@ The folder names represent the production system size.
 
 where
 
-- **J** = Number of product types (Jobs)
+- **J** = Number of job types
 - **M** = Number of parallel machines
 
 
