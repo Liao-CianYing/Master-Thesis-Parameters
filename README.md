@@ -1,7 +1,5 @@
 # Master-Thesis-Parameters
 Experimental parameters used in the master's thesis
-
-# Experimental Parameters for Dynamic Dispatching and Preventive Maintenance
 This repository contains the experimental parameters used in the master's thesis:
 **Dynamic Dispatching and Preventive Maintenance for Multi-Product Parallel Machines with Sequence-Dependent Setup Times and Machine Deterioration**
 
