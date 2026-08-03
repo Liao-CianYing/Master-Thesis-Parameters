@@ -7,7 +7,7 @@ This repository contains the experimental parameters used in the master's thesis
 
 # Research Information
 **Author**
-Chian-Ying Liao  
+Cian-Ying Liao  
 M.S. Student  
 Department of Industrial Engineering  
 National Taiwan University (NTU)
