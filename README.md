@@ -18,7 +18,7 @@ National Taiwan University (NTU)
 # System Configuration
 The folder names represent the production system size.
 
-| Folder | Description |
+| File Name | Description |
 |---------|-------------|
 | **2J1M** | 2 Products × 1 Parallel Machine |
 | **3J2M** | 3 Products × 2 Parallel Machines |
