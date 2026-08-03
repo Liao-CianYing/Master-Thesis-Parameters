@@ -39,5 +39,5 @@ The following symbols are used throughout the parameter files.
 | **β (Beta)** | Machine deterioration rate |
 | **γ (Gamma)** | Preventive maintenance rate |
 | **θ (Theta)** | Machine repair rate |
-| **R** | Sequence-dependent setup time |
+| **R_ij** | Sequence-dependent setup time form i to j |
 
